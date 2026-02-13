@@ -93,7 +93,7 @@ The dataset represents red wine samples from the Portuguese "Vinho Verde" wine.
 ## Links
 
 - **GitHub Repository:** https://github.com/TPAteeq/ml-wine-quality-classification
-- **Live Streamlit App:** to be upated
+- **Live Streamlit App:** https://ml-wine-quality-classification-2025ab05144.streamlit.app/
 - **Dataset Source:** https://archive.ics.uci.edu/ml/datasets/wine+quality
 
 ## Author
